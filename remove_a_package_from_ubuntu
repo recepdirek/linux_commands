@@ -1,0 +1,2 @@
+dpkg --list
+sudo apt-get --purge remove virtualbox-6.1
